@@ -1,2 +1,4 @@
-# intro-to-github
-my first github repository fpr ptlw computer science
+#my first github repostitory
+**NAME**:Jisselle Thomas
+**CLASS**: PTLW computer science
+**DATE**:8-22-25
